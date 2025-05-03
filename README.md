@@ -7,8 +7,11 @@ A full-fledged framework for large language model systems' development for busin
 **BENCHMARKS**
 
 - CYBERSECURITY BENCHMARK
+    - A set of synthesized and real-life prompts for user query binary classification: malicious/non-malicious prompts. See the data snippet at [HuggingFace Datasets](https://huggingface.co/datasets/hse-llm/prompt-injections) 
 - GRAMMATICALITY JUDGEMENT BENCHMARK
+    - A set of grammatical and their non-grammatical variations for binary classification and assessing the model linguistic competernce. See the data snippet at [HuggingFace Datasets](https://huggingface.co/datasets/missvector/multi-wiki-grammar)
 - CONTRADICTIONS BENCHMARK
+    - A set if two-fold utterances containing truthfull and false information for assessing LLM hallucinations' impact. See the data snippet at [HuggingFace Datasets](https://huggingface.co/datasets/missvector/nli-questions)
 
 **FIREWALL**
 
