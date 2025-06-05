@@ -1,6 +1,6 @@
 # LLM Lab
 
-supervisor and generator: vifirsanova@gmail.com
+The lab supervisor and crazy idea generator: vifirsanova@gmail.com
 
 ## Our Projects
 
