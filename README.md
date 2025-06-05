@@ -4,6 +4,7 @@
 
 1. [TranscribePro](#1-transcribepro)
 2. [Accessibility-Focused Virtual Assistant](#2-accessibility-focused-virtual-assistant)
+3. [Linguistic Approaches to Explainable AI](#3-linguistic-approaches-to-explainable-ai)
 
 ### 1. TranscribePro
 **Time Period**: Ongoing  
@@ -72,6 +73,38 @@ AI assistant generating adaptive web interfaces for neurodivergent students (ASD
   - User's cognitive profile
   - Content complexity analysis
 - Optimizing model performance
+
+### 3. Linguistic Approaches to Explainable AI
+**Time Period**: Ongoing
+
+**Technologies**: Python, PyTorch, Transformers, Graph Theory, RAG architectures  
+
+#### Description
+Novel XAI framework combining formal linguistics with graph-based semantic analysis. Two complementary tools:
+1. **Formal Syntax Modeling**  
+   - LLM-based syntactic structure prediction  
+   - Rule-based validation system  
+   - [GitHub Repository](https://github.com/vifirsanova/llm-syntax/)  
+
+2. **Graph Semantic Analyzer**  
+   - Dynamic knowledge graph construction  
+   - Relation extraction using linguistic theory  
+   - [GitHub Repository](https://github.com/vifirsanova/aggile/)  
+
+#### Research Objectives
+- Develop quantifiable metrics for AI interpretability  
+- Bridge formal linguistics with modern NLP systems  
+- Create industry-applicable RAG integration protocols  
+
+#### Current Tasks
+- LLM API adapters 
+- Benchmarking suite and evaluation framework, metric tables, comparative analysis reports
+- RAG pipeline integration prototypes, case studies
+
+#### Key Features
+- Parse tree visualization interface  
+- Dynamic semantic graph modeling
+- Explainability score calculation (in perspective)
 
 **BENCHMARKS**
 
