@@ -2,6 +2,9 @@
 
 ## Our Projects
 
+1. [TranscribePro](#1-transcribepro)
+2. [Accessibility-Focused Virtual Assistant](#2-accessibility-focused-virtual-assistant)
+
 ### 1. TranscribePro
 **Time Period**: Ongoing  
 **Technologies**: Kotlin, Whisper.cpp, JNI, LLMs, IPA transcription  
