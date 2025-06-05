@@ -7,6 +7,7 @@
 
 ### 1. TranscribePro
 **Time Period**: Ongoing  
+
 **Technologies**: Kotlin, Whisper.cpp, JNI, LLMs, IPA transcription  
 
 #### Description
@@ -38,6 +39,7 @@ Mobile application for professional-grade audio transcription with linguistic an
 
 ### 2. Accessibility-Focused Virtual Assistant
 **Time Period**: Ongoing
+
 **Technologies**: Python, LLMs, WCAG 2.2, Web Development  
 
 #### Description
