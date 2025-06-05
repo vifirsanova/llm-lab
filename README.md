@@ -1,4 +1,6 @@
-# Lab Projects
+# LLM Lab
+
+## Projects
 
 ### 1. TranscribePro
 **Time Period**: Ongoing  
