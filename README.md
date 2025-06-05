@@ -1,8 +1,4 @@
-# **SAMSARA**
-
-A full-fledged framework for large language model systems' development for business and social good.
-
-## **=== PRODUCTS ===**
+# Lab Projects
 
 ### 1. TranscribePro
 **Time Period**: Ongoing  
