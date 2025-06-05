@@ -1,5 +1,7 @@
 # LLM Lab
 
+The one and only supervisor: vifirsanova@gmail.com
+
 ## Our Projects
 
 1. [TranscribePro](#1-transcribepro)
