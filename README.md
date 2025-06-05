@@ -7,6 +7,8 @@ The one and only supervisor: vifirsanova@gmail.com
 1. [TranscribePro](#1-transcribepro)
 2. [Accessibility-Focused Virtual Assistant](#2-accessibility-focused-virtual-assistant)
 3. [Linguistic Approaches to Explainable AI](#3-linguistic-approaches-to-explainable-ai)
+4. [Firewall](#4-firewall)
+5. [LLM Toolkit](#5-llm-toolkit)
 
 ### 1. TranscribePro
 **Time Period**: Ongoing  
@@ -108,52 +110,24 @@ Novel XAI framework combining formal linguistics with graph-based semantic analy
 - Dynamic semantic graph modeling
 - Explainability score calculation (in perspective)
 
-**BENCHMARKS**
+### 4. Firewall
+**Time Period**: Ongoing
 
-- CYBERSECURITY BENCHMARK
-    - A set of synthesized and real-life prompts for user query binary classification: malicious/non-malicious prompts. See the data snippet at [HuggingFace Datasets](https://huggingface.co/datasets/hse-llm/prompt-injections) 
+**Technologies**: Python, PyTorch, Cryptographic Hashing  
+
+#### Core Components
+1. **Information Retrieval**  from cybersecurity ontology (fully synthetic wiki-like graph ontology generated with [AGGILE](https://github.com/vifirsanova/AGGILE/))
+2. **Adversarial Classifier**  based on GAN and LoRA architectures
+3. **Alternative Storages**: сaching system and blockchain 
+  
+#### Benchmarks
+- Dataset: [Prompt Injections Dataset @ HuggingFace](https://huggingface.co/datasets/hse-llm/prompt-injections)
+
+### 5. LLM Toolkit
+
+- [Custom tokenizer](https://github.com/vifirsanova/stat-llm)
+- [Convolution-based model compression algorithm](https://github.com/vifirsanova/convolutional_quantization)
 - GRAMMATICALITY JUDGEMENT BENCHMARK
     - A set of grammatical and their non-grammatical variations for binary classification and assessing the model linguistic competernce. See the data snippet at [HuggingFace Datasets](https://huggingface.co/datasets/missvector/multi-wiki-grammar)
 - CONTRADICTIONS BENCHMARK
     - A set if two-fold utterances containing truthfull and false information for assessing LLM hallucinations' impact. See the data snippet at [HuggingFace Datasets](https://huggingface.co/datasets/missvector/nli-questions)
-
-**FIREWALL**
-
-- INFORMATION RETRIEVAL
-- ADVERSARIAL CLASSIFIER
-    - PRE-TRAINED MODEL
-    - TRAINING A CUSTOM MODEL*
-- CACHING
-- BLOCKCHAIN STORAGE
-
-**USER INTERFACE GENERATORS**
-
-- ACCESSIBLE INTERFACE GENERATOR
-- COMMAND LINE INTERFACE
-- STANDARD GRAPHICAL USER INTERFACE
-
-**VECTOR DATABASE**
-
-- RELATIONAL DATABASE
-- NON-RELATIONAL DATABASE
-- GRAPH DATABASE
-
-**COMPRESSION & INTERPRETABILITY**
-
-- CONVOLUTIONAL COMPRESSION*
-- FORMAL GRAMMAR SYNTACTIC PROBING
-- GRAPH THEORY SEMANTIC PROBING
-
-**TOKENIZATION**
-
-- FINE-GRANED TOKENIZER*
-- MULTIMODAL TOKENIZER*
-
-**MULTIAGENT**
-
-- REINFORCEMENT LEARNING META-ALGORITHM
-- STATISTICAL META-ALGORITHM
-- GENERATIVE META-ALGORITHM
-
-*The module is not available if you connect through API.
-
