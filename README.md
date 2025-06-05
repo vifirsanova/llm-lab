@@ -2,7 +2,38 @@
 
 A full-fledged framework for large language model systems' development for business and social good.
 
-## **=== MODULES ===**
+## **=== PRODUCTS ===**
+
+### 1. TranscribePro
+**Time Period**: Ongoing  
+**Technologies**: Kotlin, Whisper.cpp, JNI, LLMs, IPA transcription  
+
+#### Description
+Mobile application for professional-grade audio transcription with linguistic analysis features, designed for language learners and phoneticians. Provides multiple transcription variants including IPA notation, pauses, intonation markers, and other linguistic metadata.
+
+#### Media
+- [Application Demo Video](https://drive.google.com/file/d/1kCYCH-I-2egPyZYEXa04k4qwf66LbvZs/view?usp=sharing) (Detailed overview)
+
+#### Key Features
+- Audio recording and file processing
+- Multi-format transcription output (standard + linguistic)
+- Educational focus for phonetics study
+
+#### Current Tasks
+- [Synthetic dataset](https://github.com/vifirsanova/synth-dataset/) generation using LLMs
+- ASR model fine-tuning
+- Kotlin/JNI intдатасетegration for ML models
+- UI restoration from prototype
+- Evaluation (WER & other metric scores) and reports
+
+#### Repositories
+- [Initial Prototype (UI Only)](https://github.com/vifirsanova/TranscribePro)
+- [Current Version (Whisper.cpp Integration)](https://github.com/pseudoerr/TranscribePro)
+
+#### Technical Challenges
+- Bridging native ML models with Kotlin via JNI
+- Maintaining linguistic accuracy in transcriptions
+- Reconstructing UI from prototype version
 
 **BENCHMARKS**
 
