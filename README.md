@@ -33,6 +33,41 @@ Mobile application for professional-grade audio transcription with linguistic an
 - Maintaining linguistic accuracy in transcriptions
 - Reconstructing UI from prototype version
 
+### 2. Accessibility-Focused Virtual Assistant
+**Time Period**: Ongoing
+**Technologies**: Python, LLMs, WCAG 2.2, Web Development  
+
+#### Description
+AI assistant generating adaptive web interfaces for neurodivergent students (ASD, ADHD). Goes beyond text generation by creating WCAG-compliant outputs with:
+- Semantic highlighting
+- Contextual hyperlinks
+- Interactive tooltips
+- Dynamic content adaptation
+
+#### Demo & Code
+- [System Walkthrough Video](https://drive.google.com/file/d/1wiWQ-B_36F-i5PtzgUMMPaxF72zD-l7R/view?usp=sharing)
+- [Anonymous Repository](https://github.com/Anonymous-Submitting/anonymous-submission) (under peer review)
+
+#### Current Progress
+- Completed:  
+  - Core generation algorithms  
+  - GUI prototypes
+  - User surveys (target group: 50+ participants)  
+- In Progress:  
+  - LLM benchmarking (speed/quality)  
+  - Accessibility metrics framework
+  - WCAG compliance validator  
+- Perspectives:
+  - Web app deployment
+  - Mobile version (Flutter)  
+  - Browser extension  
+
+#### Research Perspectives
+- Dynamic interface adaptation based on:
+  - User's cognitive profile
+  - Content complexity analysis
+- Optimizing model performance
+
 **BENCHMARKS**
 
 - CYBERSECURITY BENCHMARK
