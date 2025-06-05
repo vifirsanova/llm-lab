@@ -1,6 +1,6 @@
 # LLM Lab
 
-The one and only supervisor: vifirsanova@gmail.com
+supervisor and generator: vifirsanova@gmail.com
 
 ## Our Projects
 
